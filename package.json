@@ -1,0 +1,30 @@
+{
+  "name": "jschardet-cli",
+  "version": "1.0.0",
+  "description": "A cli wrapper for jschardet.",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "jschardet": "cli.js"
+  },
+  "keywords": [
+    "charset",
+    "detect",
+    "jschardet"
+  ],
+  "author": "frankfang",
+  "license": "MIT",
+  "dependencies": {
+    "jschardet": "^1.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FrankFang/jschardet-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FrankFang/jschardet-cli/issues",
+    "email": "frankfang1990@gmail.com"
+  }
+}
